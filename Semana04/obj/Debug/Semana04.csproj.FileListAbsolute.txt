@@ -20,3 +20,7 @@ F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana04
 F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana04\Semana04\Semana04\obj\Debug\Semana04.csproj.CopyComplete
 F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana04\Semana04\Semana04\obj\Debug\Semana04.exe
 F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana04\Semana04\Semana04\obj\Debug\Semana04.pdb
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana04\Semana04\Semana04\obj\Debug\ListaCategoria.g.cs
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana04\Semana04\Semana04\obj\Debug\ManCategoria.g.cs
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana04\Semana04\Semana04\obj\Debug\ListaCategoria.baml
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana04\Semana04\Semana04\obj\Debug\ManCategoria.baml
