@@ -24,3 +24,7 @@ F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana04
 F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana04\Semana04\Semana04\obj\Debug\ManCategoria.g.cs
 F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana04\Semana04\Semana04\obj\Debug\ListaCategoria.baml
 F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana04\Semana04\Semana04\obj\Debug\ManCategoria.baml
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana04\Semana04\Semana04\obj\Debug\View\ListaCategoria.g.cs
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana04\Semana04\Semana04\obj\Debug\View\ManCategoria.g.cs
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana04\Semana04\Semana04\obj\Debug\View\ListaCategoria.baml
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana04\Semana04\Semana04\obj\Debug\View\ManCategoria.baml
